@@ -34,7 +34,6 @@ void speakIt(){
 
 
     stdout.write(list[i]);
-
     if((num-1) == i){
       stdout.write(".");
     }else{
